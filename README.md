@@ -16,4 +16,5 @@ This project demonstrates the **Best Fit Memory Allocation Algorithm**, which is
 3. **Display Results**: After allocation, the program shows the allocation status of each process and the remaining memory in each block.
 
 ## Example Output
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/d4a6ea75-f8e5-4d36-9eca-74a2d5a79d21)
+
